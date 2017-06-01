@@ -1,0 +1,124 @@
+#header {
+    background-color: whitesmoke;
+    color: black;
+    display:block;
+}
+
+h1 {
+    margin: 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 42px;
+    display: inline-block;
+}
+
+h2 {
+    margin: 19px;
+    font-family: Tahoma, Geneva, sans-serif;
+    display: inline-block;
+    float: right; 
+    
+}
+
+#container{
+    padding: 25px;
+    background: linear-gradient(to right, #1B0118, #420C3B, #8E4585, #420C3B, #1B0118);
+}
+
+h3{    
+    margin: 0px;
+    padding: 10px;
+    width: 350px;
+    color: white;
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+}
+
+p{
+    margin: 0px;
+    padding: 11px;
+    width: 350px;
+    color: black;
+    background: linear-gradient(to right,whitesmoke, #FFEFFD);
+    display: inline-block;
+}
+/*.boxtitle{
+    margin: 0px;
+    color: white;
+    background: linear-gradient(lightgray, gray, lightgray);
+}
+
+.boxbody{
+    margin: 0px;
+    color: black;
+    background: linear-gradient(to right,whitesmoke, #FFEFFD)
+} */
+
+#basicbio{
+    height: 500px;
+    width: 1400px;
+    vertical-align: top;
+}
+
+#mepic{
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    border: 5px solid lightgray;
+    vertical-align: top;
+}
+
+#biobox{
+    height: 350px;
+    width: 400px;
+    display: inline-block;
+    vertical-align: inline-block;
+}
+
+.webboxes{
+    width: 350px;
+}
+.webex{
+    width: 350px;
+    height: auto;
+    display: inline-block;
+}
+
+h4{
+    padding:13px;
+    width: 350px;
+    color: white;
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+}
+
+.techimg{
+    width:1%;
+    height:1%;
+    display: inline-block;
+}
+
+.exbutton{
+    background-color: green;
+    color: black;
+}
+
+#condir{
+    background-color: whitesmoke;
+    color: black;
+    display:block;
+}
+
+#smlinks{
+    background-color: whitesmoke;
+    color: black;
+    display:block;
+}
+
+a{
+    color:black;
+    font-family: "Lucida Console", geneva, monospaced;
+}
+
+
+
+
